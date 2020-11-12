@@ -54,7 +54,7 @@ apache -> nginx로 이관
 * 사이트 링크 : https://console.toast.com/
 권한 세분화 기능 개발, cloud-trail 연동 및 유지보수
 
-## Toast ServerSecurityCheck 2020.09 ~ 10
+## Toast ServerSecurityCheck 2020.09 ~
 * 사이트 링크 : https://console.toast.com/ 내 ServerSecurityCheck 서비스
  * 약 2달간 신규 개발(기존 업무 병행) 완료 후 유지보수중
  * 10월 24일 상품 출시
