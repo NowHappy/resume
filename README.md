@@ -5,25 +5,27 @@ NHN Toast 2019년 6월 24일 ~ (1년 6개월)
 현재 6년차 개발
 ## Toast Homepage 2019.06 ~ 
  ### 사이트 링크 : https://toast.com
- ### 기술 스택 : vue js, 
-           spring webmvc + webflux, 
-           jpa, 
-           batch - quartz scheduler, 
-           cache - caffeine, 
-           proxy - netflix-zuul, 
-           mock test - mockito2, 
-           sftp,
-           db형상관리 - flyway,
-           doc - swagger2,
-           actuator, prometheus,
- ### 연동 모듈 : Toast Log&Crash,
-           Toast Cloud Search,
-           Toast Role,
-           Toast Id - sso,
-           NHN ngeoip(ip 국가 조회),
-           Toast Cab(core api bundle),
-           Toast billing,
-           Toast i18n
+ ### 기술 스택 
+ * vue js, 
+   spring webmvc + webflux, 
+   jpa, 
+   batch - quartz scheduler, 
+   cache - caffeine, 
+   proxy - netflix-zuul, 
+   mock test - mockito2, 
+   sftp,
+   db형상관리 - flyway,
+   doc - swagger2,
+   actuator, prometheus,
+ ### 연동 모듈
+ * Toast Log&Crash,
+   Toast Cloud Search,
+   Toast Role,
+   Toast Id - sso,
+   NHN ngeoip(ip 국가 조회),
+   Toast Cab(core api bundle),
+   Toast billing,
+   Toast i18n
  ### 기여도 : 50% (사이트 메뉴 절반 이상 신규 개발, 코드 리팩토링 및 전반적인 사이트 개선 사항 반영 및 유지보수)
   * 소개 메뉴 : 신규 소개 내용 반영 및 개선
   * 서비스 메뉴 : 신규 서비스 추가 및 개선
