@@ -4,7 +4,7 @@
 NHN Toast 2019년 6월 24일 ~ (1년 6개월)
 현재 6년차 개발
 ## Toast Homepage 2019.06 ~ 
- ### 사이트 링크 : https://toast.com
+* 사이트 링크 : https://toast.com
  ### 기술 스택 
  * vue js, 
    spring webmvc + webflux, 
@@ -37,22 +37,32 @@ NHN Toast 2019년 6월 24일 ~ (1년 6개월)
   * 공공 cloud 서비스 등급 심사 요건 개발 진행
 
 ## Toast RTD 2019.10 ~
+* 사이트 링크 : https://docs.toast.com/ko/TOAST/ko/Overview/
 신규 가이드 추가 및 유지 보수, 배포 프로세스 개선 
 
 ## Toast PSF 2019.02 ~
+* 사이트 링크 : https://console.toast.com/  내 10여종 서비스
 apache -> nginx로 이관
 
 ## Toast Reseller Dashboard 2020.04 ~ 06
+* 사이트 링크 : https://console-jam.toast.com/
+* NHN Japan 사업 : cloud service reseller(aws, gcp)
+* 기여도: sprint 5, 6 참여 각각 50%
+* manage setting, invoice, cost, dashboard api 개발
 
 ## Toast Webconsole 2020.06 ~
+* 사이트 링크 : https://console.toast.com/
 권한 세분화 기능 개발, cloud-trail 연동 및 유지보수
 
 ## Toast ServerSecurityCheck 2020.09 ~ 10
+* 사이트 링크 : https://console.toast.com/ 내 ServerSecurityCheck 서비스
  * 약 2달간 신규 개발(기존 업무 병행) 완료 후 유지보수중
  * 10월 24일 상품 출시
  * 기술 스택 : vue js, spring webmvc, proxy - netflix-zuul, Toast cloud search, Toast Role, sso 연동
  * 기여도 : 50% (console, admin front, proxy server 개발, api server는 다른 개발자)
 
 ## Toast Meetup 2020.11 ~
- * 기술 스택 : vue js, spring webflux, jpa, proxy - spring cloud gateway, sns 연동(facebook, twitter), rss 연동, tui-editor(vue), Toast cloud search, Toast Role, sso 연동
- * 기여도 : 100% (front, back, admin 모두 완전히 새로 개발)
+* 사이트 링크 : https://meetup.toast.com/
+* 기술 스택 : vue js, spring webflux, jpa, proxy - spring cloud gateway, sns 연동(facebook, twitter), rss 연동, tui-editor(vue), Toast cloud search, Toast Role, sso 연동
+* 기여도 : 100% (front, back, admin 모두 완전히 새로 개발)
+* 기존 한국 서버와 일본 서버 분리되어 운영되었으나 신규 개발하면서 한 서버로 운영되도록 수정
