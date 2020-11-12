@@ -34,7 +34,7 @@ NHN Toast 2019년 6월 24일 ~ (1년 6개월)
   * 파트너 메뉴 : 파트너 신청 및 해지 프로세스 개선
   * 고객센터 메뉴 : 버그 개선
   * idc 이중화 구축
-  * 공공 cloud 서비스 등급 심사 요건 개발 진행
+  * 공공 cloud 서비스 등급 심사 요건 개발
 
 ## Toast RTD 2019.10 ~
 * 사이트 링크 : https://docs.toast.com/ko/TOAST/ko/Overview/
